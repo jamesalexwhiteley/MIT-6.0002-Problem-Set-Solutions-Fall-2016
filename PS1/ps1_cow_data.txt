@@ -1,0 +1,10 @@
+Maggie,9
+Herman,2
+Betsy,4
+Oreo,9
+MooMoo,3
+Milkshake,9
+Millie,5
+Lola,1
+Florence,2
+Henrietta,9
